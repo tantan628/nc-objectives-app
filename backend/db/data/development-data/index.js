@@ -1,0 +1,1 @@
+exports.objectivesData = require('./objectives');
